@@ -4,6 +4,10 @@ Friendly bindings for ZSH's vi mode
 
 ## Installation
 
+```
+git clone https://github.com/ejle/zsh-vim-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vim-mode
+```
+
 Install this plugin with any [ZSH plugin manager][], or just source it from
 your `.zshrc`.
 
